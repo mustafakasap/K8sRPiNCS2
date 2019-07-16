@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package inferer;
+
+service Inferer {
+  rpc infer(stream Request) returns (Reply) {}
+}
+
+message Request {
+  bytes content = 1;
+}
+
+message Reply {
+  string message = 1;
+}

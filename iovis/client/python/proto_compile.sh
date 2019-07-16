@@ -1,0 +1,1 @@
+python3 -m grpc_tools.protoc -I../server/ ../server/inference_service.proto --python_out=. --grpc_python_out=.
