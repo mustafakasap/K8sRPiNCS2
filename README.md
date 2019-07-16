@@ -1,7 +1,9 @@
 
 # Kubernetes Cluster w Intel Movidius VPU, Raspberry PIs, Load Balancer and more
 
-Thanks to [TechSmith](https://www.techsmith.com/) for providing free tools so I can screenshot, capture windows and recorded videos that are used in this public post.
+Thanks to [Intel](http://www.intel.com) for providing VPUs and debugging support. 
+
+Thanks to [TechSmith](http://www.techsmith.com/) for providing free tools so I can screenshot, capture windows and recorded videos that are used in this public post.
 
 ## Objectives  
 There exists many blog posts on building Kubernetes cluster with RaspberryPis. Idea behind this project is not to repeat the same but  
